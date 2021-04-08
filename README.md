@@ -1,1 +1,1 @@
-# Sun-rise-set
+# sunrise-and-sunset
